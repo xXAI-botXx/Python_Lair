@@ -1,0 +1,12 @@
+----------------
+  File "D:\Informatik\Programmieren\Python\Python_Lair\python_lair_subprocess61.py", line 8
+    MAIN CODE
+         ^
+SyntaxError: invalid syntax
+----------------
+hey
+----------------
+hey
+----------------
+
+----------------

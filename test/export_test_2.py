@@ -1,0 +1,9 @@
+MAIN CODE
+#%%
+v = "hey"
+#%%
+HERES SOME MAIN CODE
+#%%
+print(v)
+#%%
+HERES SOME MORE MAIN CODE

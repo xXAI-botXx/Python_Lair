@@ -1,0 +1,1 @@
+D:\Informatik\Programmieren\Python\Python_Lair>pyinstaller -F -w -i "logo_blue.ico" python_lair.py

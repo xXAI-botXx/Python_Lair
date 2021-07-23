@@ -1,0 +1,32 @@
+----------------
+def fabonacci(numb:int) -> int:
+    if numb <= 1:
+        return numb
+    else:
+        return fabonacci(numb-1) + fabonacci(numb-2)
+
+for i in range(21):
+    print(f"Fabonacci an der Stelle {i}: {fabonacci(i)}")
+----------------
+Fabonacci an der Stelle 0: 0
+Fabonacci an der Stelle 1: 1
+Fabonacci an der Stelle 2: 1
+Fabonacci an der Stelle 3: 2
+Fabonacci an der Stelle 4: 3
+Fabonacci an der Stelle 5: 5
+Fabonacci an der Stelle 6: 8
+Fabonacci an der Stelle 7: 13
+Fabonacci an der Stelle 8: 21
+Fabonacci an der Stelle 9: 34
+Fabonacci an der Stelle 10: 55
+Fabonacci an der Stelle 11: 89
+Fabonacci an der Stelle 12: 144
+Fabonacci an der Stelle 13: 233
+Fabonacci an der Stelle 14: 377
+Fabonacci an der Stelle 15: 610
+Fabonacci an der Stelle 16: 987
+Fabonacci an der Stelle 17: 1597
+Fabonacci an der Stelle 18: 2584
+Fabonacci an der Stelle 19: 4181
+Fabonacci an der Stelle 20: 6765
+----------------
