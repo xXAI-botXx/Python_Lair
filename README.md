@@ -11,6 +11,19 @@ This IDE should not be professionell, for that i have to spend more time in it.
   <source src="Python_Lair_Vorschau.mp4" type="video/mp4">
 </video>
 
+Inspiration:
+
+https://user-images.githubusercontent.com/50902823/171793012-92e3d310-6fb3-4557-905c-084b535bc855.mp4
+
+Python Lair Show 1:
+
+https://user-images.githubusercontent.com/50902823/171793045-4fa79456-327d-4364-a7bf-01939aa76624.mp4
+
+Python Lair Show 2:
+
+https://user-images.githubusercontent.com/50902823/171793026-31887cb5-37c5-4b7a-a96f-f26073c39a8a.mp4
+
+
 ---
 ### Tools
 
